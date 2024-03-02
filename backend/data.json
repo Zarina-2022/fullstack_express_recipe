@@ -1,0 +1,252 @@
+[
+  {
+    "id": "cvssd345f",
+    "recipeName": "Oven Baked Chicken",
+    "category": "Main Course",
+    "ingredients": [
+      "500 grams chicken breast",
+      "2 tablespoons olive oil",
+      "1 tablespoon salt",
+      "1 lemon juice"
+    ],
+    "instructions": [
+      "Wash and dry the chicken breast",
+      "In a bowl, mix all ingredients. Squeeze the lemon juice as well.",
+      "Let it marinate in the fridge for at least 1 hour",
+      "Bake it in the oven about 30-40 min."
+    ],
+    "recipeTime": 40,
+    "serviceSuggestion": "with rice or a green salad",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-09/5/18/campaign_images/buzzfeed-prod-web-01/12-easy-ideas-for-one-pot-chicken-dinners-2-12666-1536184837-15_dblbig.jpg"
+  },
+  {
+    "id": "qskhjdfkj7465jdshgfj8742",
+    "recipeName": "Quinoa Salad",
+    "category": "Salad",
+    "ingredients": [
+      "1 cup quinoa",
+      "2 cups mixed vegetables",
+      "3 tablespoons olive oil",
+      "1 teaspoon cumin",
+      "1/4 cup feta cheese (optional)",
+      "Fresh parsley for garnish"
+    ],
+    "instructions": [
+      "Cook quinoa according to package instructions",
+      "Toss vegetables with olive oil and cumin, then roast in the oven until tender",
+      "Mix quinoa with roasted vegetables",
+      "Sprinkle feta cheese and garnish with fresh parsley"
+    ],
+    "recipeTime": 8,
+    "serviceSuggestion": "as a side dish",
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/08/quinoa-salad-recipes.jpg"
+  },
+  {
+    "id": "lkdjfslk839475wkjhdef3",
+    "recipeName": "Spaghetti Bolognese",
+    "category": "Pasta",
+    "ingredients": [
+      "400 grams spaghetti",
+      "300 grams ground beef",
+      "1 onion (diced)",
+      "2 cloves garlic (minced)",
+      "1 can crushed tomatoes",
+      "1 teaspoon dried oregano",
+      "Salt and pepper to taste",
+      "Grated Parmesan cheese for serving"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions",
+      "In a pan, brown ground beef with diced onion and minced garlic",
+      "Add crushed tomatoes, oregano, salt, and pepper. Simmer for 15-20 minutes",
+      "Serve Bolognese sauce over cooked spaghetti. Sprinkle with Parmesan cheese"
+    ],
+    "recipeTime": 30,
+    "serviceSuggestion": "with Parmesan cheese",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/World_Pastas_Pizzas/The_Best_Spicy_Spaghetti_Bolognese_Recipe-1.jpg"
+  },
+  {
+    "id": "wljkfl349875kjdhsfk44",
+    "recipeName": "Grilled Salmon",
+    "category": "Seafood",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 tablespoons olive oil",
+      "1 tablespoon lemon juice",
+      "1 teaspoon dill",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Preheat grill to medium-high heat",
+      "In a bowl, mix olive oil, lemon juice, dill, salt, and pepper",
+      "Brush salmon fillets with the mixture",
+      "Grill salmon for 4-5 minutes per side or until cooked through"
+    ],
+    "recipeTime": 20,
+    "serviceSuggestion": "with a lemon wedge",
+    "image": "https://www.eatingwell.com/thmb/6ZgLakoI-Oij1VdWgT-6fPrTvOE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5891516-7eb0c001396947b29c3fa4e15d6f389f.jpg"
+  },
+  {
+    "id": "skdjfkds38475kjdhsf5",
+    "recipeName": "Vegetarian Stir-Fry",
+    "category": "Vegetarian",
+    "ingredients": [
+      "2 cups broccoli florets",
+      "1 bell pepper (sliced)",
+      "1 carrot (julienned)",
+      "200 grams tofu (cubed)",
+      "3 tablespoons soy sauce",
+      "1 tablespoon sesame oil",
+      "1 tablespoon ginger (minced)",
+      "2 cloves garlic (minced)",
+      "2 green onions (sliced)"
+    ],
+    "instructions": [
+      "Heat sesame oil in a wok or pan over medium-high heat",
+      "Stir-fry tofu until golden brown. Add ginger and garlic",
+      "Add broccoli, bell pepper, and carrot. Stir-fry until vegetables are tender-crisp",
+      "Pour soy sauce over the stir-fry and toss to combine. Garnish with green onions"
+    ],
+    "recipeTime": 15,
+    "serviceSuggestion": "over rice",
+    "image": "https://asimplepalate.com/wp-content/uploads/2019/03/vegetable-stir-fry-15-1024x1536.jpg"
+  },
+  {
+    "id": ".sdkjflkj45876kjdhfy46",
+    "recipeName": "Caprese Salad",
+    "category": "Salad",
+    "ingredients": [
+      "2 cups cherry tomatoes",
+      "1 cup fresh mozzarella balls",
+      "1/4 cup fresh basil leaves",
+      "2 tablespoons balsamic glaze",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Halve the cherry tomatoes and mozzarella balls",
+      "Arrange tomatoes, mozzarella, and basil on a serving platter",
+      "Drizzle with balsamic glaze. Season with salt and pepper",
+      "Serve as a refreshing salad or appetizer"
+    ],
+    "recipeTime": 10,
+    "serviceSuggestion": "as an appetizer",
+    "image": "https://www.cookinwithmima.com/wp-content/uploads/2021/08/Caprese-Salad-3.jpg"
+  },
+  {
+    "id": "alkjdflk349859wkjdf7",
+    "recipeName": "Chicken and Vegetable Skewers",
+    "category": "Appetizer",
+    "ingredients": [
+      "500 grams chicken thighs (cubed)",
+      "1 zucchini (sliced)",
+      "1 bell pepper (sliced)",
+      "1 red onion (sliced)",
+      "2 tablespoons olive oil",
+      "1 teaspoon paprika",
+      "1 teaspoon garlic powder",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Preheat grill to medium-high heat",
+      "Thread chicken, zucchini, bell pepper, and red onion onto skewers",
+      "In a bowl, mix olive oil, paprika, garlic powder, salt, and pepper",
+      "Brush skewers with the mixture and grill for 10-12 minutes, turning occasionally"
+    ],
+    "recipeTime": 25,
+    "serviceSuggestion": "with a dipping sauce",
+    "image": "https://www.officiallyglutenfree.com/wp-content/uploads/2022/06/Grilled-Chicken-Kabobs-11-768x501.jpg"
+  },
+  {
+    "id": "asdhfkj4753857dsnf9",
+    "recipeName": "Vegetarian Chickpea Curry",
+    "category": "Vegetarian",
+    "ingredients": [
+      "2 cans chickpeas (drained and rinsed)",
+      "1 onion (chopped)",
+      "2 tomatoes (diced)",
+      "1 cup coconut milk",
+      "2 tablespoons curry powder",
+      "1 teaspoon cumin",
+      "1 teaspoon turmeric",
+      "Salt and pepper to taste",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "In a pot, sauté chopped onion until translucent",
+      "Add diced tomatoes, curry powder, cumin, turmeric, salt, and pepper. Cook for 5 minutes",
+      "Stir in chickpeas and coconut milk. Simmer for 15-20 minutes",
+      "Garnish with fresh cilantro and serve over rice"
+    ],
+    "recipeTime": 30,
+    "serviceSuggestion": "over rice",
+    "image": "https://plantd.co/wp-content/uploads/2019/10/Vegan-Chickpea-Curry.png"
+  },
+  {
+    "id": "asfdjkhaf09e8910wefr",
+    "recipeName": "Chocolate Avocado Mousse",
+    "category": "Dessert",
+    "ingredients": [
+      "2 ripe avocados",
+      "1/2 cup cocoa powder",
+      "1/2 cup maple syrup",
+      "1 teaspoon vanilla extract",
+      "A pinch of salt",
+      "Berries for garnish"
+    ],
+    "instructions": [
+      "In a blender, combine avocados, cocoa powder, maple syrup, vanilla extract, and a pinch of salt",
+      "Blend until smooth and creamy",
+      "Chill in the refrigerator for at least 2 hours",
+      "Serve topped with fresh berries"
+    ],
+    "recipeTime": 15,
+    "serviceSuggestion": "with fresh berries",
+    "image": "https://www.modernhoney.com/wp-content/uploads/2018/06/Dark-Chocolate-Avocado-Mousse-2161-crop-1200x937.jpg"
+  },
+  {
+    "id": "d2ae7603-e584-46a9-bc10-f3c93009b534",
+    "recipeName": "Vegetable Minestrone Soup",
+    "category": "Soup",
+    "ingredients": [
+      "2 tablespoons olive oil",
+      "1 onion, chopped",
+      "2 carrots, diced",
+      "2 celery stalks, chopped",
+      "3 cloves garlic, minced",
+      "1 can (400g) diced tomatoes",
+      "1 can (400g) cannellini beans, drained and rinsed",
+      "1 zucchini, diced",
+      "100g green beans, chopped",
+      "1 teaspoon dried oregano",
+      "1 teaspoon dried basil",
+      "1/2 teaspoon dried thyme",
+      "1/2 cup small pasta (e.g., small shells or ditalini)",
+      "6 cups vegetable broth",
+      "Salt and pepper to taste",
+      "Freshly grated Parmesan cheese for serving"
+    ],
+    "instructions": [
+      "In a large pot, heat olive oil over medium heat.",
+      "Add chopped onion, carrots, celery, and garlic. Sauté until vegetables are softened.",
+      "Add diced tomatoes, cannellini beans, zucchini, green beans, oregano, basil, and thyme. Stir to combine.",
+      "Pour in the vegetable broth and bring the soup to a boil. Reduce heat and let it simmer for 20 minutes.",
+      "Add the small pasta and cook until al dente.",
+      "Season with salt and pepper to taste.",
+      "Serve hot, garnished with freshly grated Parmesan cheese.",
+      "Enjoy your Vegetable Minestrone Soup!"
+    ],
+    "recipeTime": 30,
+    "serviceSuggestion": "with crusty bread",
+    "image": "https://assets-prd-weg.unataops.com/web/recipe_header/725146a8f4394bec92f945d65e4e6a53.jpg"
+  },
+  {
+    "recipeName": "test",
+    "category": "test",
+    "recipeTime": "12",
+    "serviceSuggestions": "wrewrq werqwe werwer werqer edfdsf ",
+    "image": "https://i.lezzet.com.tr/images-xxlarge-recipe/firinda-kiymali-patates-bac6012a-4875-4421-bc25-fc502e4188ae.jpg",
+    "ingredients": ["dsfsdf", "dsfsd", "sdf"],
+    "instructions": ["sdf", "sdfsd", "sdfsdf"],
+    "id": "d9c1902d-dbeb-4dfb-b535-28c0c7ed54fa"
+  }
+]
